@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{6C370892-B45C-4429-9FD3-960C8956B74F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental.GUI", "CarRental.GUI\CarRental.GUI.csproj", "{F1542782-C7A2-4D5E-AC7D-A19330905F59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6C370892-B45C-4429-9FD3-960C8956B74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C370892-B45C-4429-9FD3-960C8956B74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C370892-B45C-4429-9FD3-960C8956B74F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1542782-C7A2-4D5E-AC7D-A19330905F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1542782-C7A2-4D5E-AC7D-A19330905F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1542782-C7A2-4D5E-AC7D-A19330905F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1542782-C7A2-4D5E-AC7D-A19330905F59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
